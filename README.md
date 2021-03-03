@@ -32,5 +32,5 @@ Software : XAMPP / Wamp / Mamp/ Lamp \(anyone\).
 
 ## Want custom PHP project?
 
-If you looking for specific project for your school or college then follow me on intagram and message me there. [https://www.instagram.com/code\_lone/](https://www.instagram.com/kingosr/)
+If you looking for specific project for your school or college then follow me on intagram and message me there. [https://www.instagram.com/kingosr](https://www.instagram.com/kingosr/)
 
